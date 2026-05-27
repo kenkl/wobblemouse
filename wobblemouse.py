@@ -1,4 +1,4 @@
-#!/Users/kenkl/bin/wobblemouse/venv/bin/python3
+#!/usr/bin/env python3
 # A little ditty to wobble the mouse around a little to simulate activity.
 
 import pyautogui
