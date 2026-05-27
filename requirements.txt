@@ -1,12 +1,1 @@
-MouseInfo
 PyAutoGUI
-PyGetWindow
-PyMsgBox
-pyobjc-core
-pyobjc-framework-Cocoa
-pyobjc-framework-Quartz
-pyperclip
-PyRect
-PyScreeze
-pytweening
-rubicon-objc
